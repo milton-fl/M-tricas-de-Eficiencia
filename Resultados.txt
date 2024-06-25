@@ -1,0 +1,611 @@
+>> >> codigoFinal
+Tabla de Resultados:
+    TamanoArray    TiempoInicio    TiempoFin    TiempoTotal    Iteraciones
+    ___________    ____________    _________    ___________    ___________
+
+     100           1.8245e+13       9.7e-06     0                6        
+     200           1.8245e+13       9.6e-06     0              152        
+     300           1.8245e+13       6.6e-06     0                9        
+     400           1.8245e+13      1.19e-05     0              400        
+     500           1.8245e+13       7.9e-06     0              107        
+     600           1.8245e+13       6.8e-06     0               33        
+     700           1.8245e+13       7.8e-06     0               97        
+     800           1.8245e+13       7.1e-06     0               40        
+     900           1.8245e+13       6.4e-06     0               15        
+    1000           1.8245e+13       6.4e-06     0                8        
+    1100           1.8245e+13       8.4e-06     0              142        
+    1200           1.8245e+13       6.6e-06     0               26        
+    1300           1.8245e+13       7.3e-06     0               58        
+    1400           1.8245e+13       8.1e-06     0              137        
+    1500           1.8245e+13       6.6e-06     0               20        
+    1600           1.8245e+13       6.3e-06     0                5        
+    1700           1.8245e+13       6.5e-06     0               18        
+    1800           1.8245e+13       6.9e-06     0               43        
+    1900           1.8245e+13       6.5e-06     0               10        
+    2000           1.8245e+13      1.06e-05     0              294        
+    2100           1.8245e+13       9.1e-06     0              127        
+    2200           1.8245e+13         8e-06     0              117        
+    2300           1.8245e+13       6.4e-06     0               12        
+    2400           1.8245e+13       6.4e-06     0               15        
+    2500           1.8245e+13       7.3e-06     0               67        
+    2600           1.8245e+13       6.4e-06     0                5        
+    2700           1.8245e+13       8.9e-06     0              177        
+    2800           1.8245e+13       7.6e-06     0               84        
+    2900           1.8245e+13      1.17e-05     0              375        
+    3000           1.8245e+13       6.7e-06     0               14        
+    3100           1.8245e+13       6.8e-06     0               28        
+    3200           1.8245e+13       8.9e-06     0              173        
+    3300           1.8245e+13       7.9e-06     0               80        
+    3400           1.8245e+13       8.1e-06     0               99        
+    3500           1.8245e+13       8.5e-06     0              145        
+    3600           1.8245e+13      2.44e-05     0              135        
+    3700           1.8245e+13      1.27e-05     0               16        
+    3800           1.8245e+13       7.6e-06     0               14        
+    3900           1.8245e+13       7.8e-06     0               40        
+    4000           1.8245e+13       9.5e-06     0              219        
+    4100           1.8245e+13       9.7e-06     0              244        
+    4200           1.8245e+13       7.2e-06     0               58        
+    4300           1.8245e+13       6.8e-06     0               11        
+    4400           1.8245e+13       7.9e-06     0              112        
+    4500           1.8245e+13       7.1e-06     0               46        
+    4600           1.8245e+13       6.3e-06     0                6        
+    4700           1.8245e+13      2.39e-05     0              573        
+    4800           1.8245e+13         8e-06     0              101        
+    4900           1.8245e+13         8e-06     0               56        
+    5000           1.8245e+13       7.7e-06     0              118        
+
+Resultado 1:
+El numero 73 se encuentra en la posicion 6.
+Tamano del array: 100
+Tiempo de inicio: 18245318170095.000000
+Tiempo de fin: 0.000010
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 6
+
+----------------------------------------
+
+Resultado 2:
+El numero 69 se encuentra en la posicion 152.
+Tamano del array: 200
+Tiempo de inicio: 18245318172905.000000
+Tiempo de fin: 0.000010
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 152
+
+----------------------------------------
+
+Resultado 3:
+El numero 35 se encuentra en la posicion 9.
+Tamano del array: 300
+Tiempo de inicio: 18245318174893.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 9
+
+----------------------------------------
+
+Resultado 4:
+El numero 56 no se encuentra en el array.
+Tamano del array: 400
+Tiempo de inicio: 18245318176775.000000
+Tiempo de fin: 0.000012
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 400
+
+----------------------------------------
+
+Resultado 5:
+El numero 4 se encuentra en la posicion 107.
+Tamano del array: 500
+Tiempo de inicio: 18245318178726.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 107
+
+----------------------------------------
+
+Resultado 6:
+El numero 4 se encuentra en la posicion 33.
+Tamano del array: 600
+Tiempo de inicio: 18245318180648.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 33
+
+----------------------------------------
+
+Resultado 7:
+El numero 21 se encuentra en la posicion 97.
+Tamano del array: 700
+Tiempo de inicio: 18245318182646.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 97
+
+----------------------------------------
+
+Resultado 8:
+El numero 0 se encuentra en la posicion 40.
+Tamano del array: 800
+Tiempo de inicio: 18245318184672.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 40
+
+----------------------------------------
+
+Resultado 9:
+El numero 31 se encuentra en la posicion 15.
+Tamano del array: 900
+Tiempo de inicio: 18245318186644.000000
+Tiempo de fin: 0.000006
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 15
+
+----------------------------------------
+
+Resultado 10:
+El numero 62 se encuentra en la posicion 8.
+Tamano del array: 1000
+Tiempo de inicio: 18245318188611.000000
+Tiempo de fin: 0.000006
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 8
+
+----------------------------------------
+
+Resultado 11:
+El numero 3 se encuentra en la posicion 142.
+Tamano del array: 1100
+Tiempo de inicio: 18245318190588.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 142
+
+----------------------------------------
+
+Resultado 12:
+El numero 36 se encuentra en la posicion 26.
+Tamano del array: 1200
+Tiempo de inicio: 18245318192684.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 26
+
+----------------------------------------
+
+Resultado 13:
+El numero 65 se encuentra en la posicion 58.
+Tamano del array: 1300
+Tiempo de inicio: 18245318194694.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 58
+
+----------------------------------------
+
+Resultado 14:
+El numero 42 se encuentra en la posicion 137.
+Tamano del array: 1400
+Tiempo de inicio: 18245318196738.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 137
+
+----------------------------------------
+
+Resultado 15:
+El numero 50 se encuentra en la posicion 20.
+Tamano del array: 1500
+Tiempo de inicio: 18245318198834.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 20
+
+----------------------------------------
+
+Resultado 16:
+El numero 19 se encuentra en la posicion 5.
+Tamano del array: 1600
+Tiempo de inicio: 18245318200904.000000
+Tiempo de fin: 0.000006
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 5
+
+----------------------------------------
+
+Resultado 17:
+El numero 54 se encuentra en la posicion 18.
+Tamano del array: 1700
+Tiempo de inicio: 18245318203119.000000
+Tiempo de fin: 0.000006
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 18
+
+----------------------------------------
+
+Resultado 18:
+El numero 51 se encuentra en la posicion 43.
+Tamano del array: 1800
+Tiempo de inicio: 18245318205222.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 43
+
+----------------------------------------
+
+Resultado 19:
+El numero 44 se encuentra en la posicion 10.
+Tamano del array: 1900
+Tiempo de inicio: 18245318207333.000000
+Tiempo de fin: 0.000006
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 10
+
+----------------------------------------
+
+Resultado 20:
+El numero 88 se encuentra en la posicion 294.
+Tamano del array: 2000
+Tiempo de inicio: 18245318209464.000000
+Tiempo de fin: 0.000011
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 294
+
+----------------------------------------
+
+Resultado 21:
+El numero 22 se encuentra en la posicion 127.
+Tamano del array: 2100
+Tiempo de inicio: 18245318211809.000000
+Tiempo de fin: 0.000009
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 127
+
+----------------------------------------
+
+Resultado 22:
+El numero 27 se encuentra en la posicion 117.
+Tamano del array: 2200
+Tiempo de inicio: 18245318214039.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 117
+
+----------------------------------------
+
+Resultado 23:
+El numero 71 se encuentra en la posicion 12.
+Tamano del array: 2300
+Tiempo de inicio: 18245318216273.000000
+Tiempo de fin: 0.000006
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 12
+
+----------------------------------------
+
+Resultado 24:
+El numero 89 se encuentra en la posicion 15.
+Tamano del array: 2400
+Tiempo de inicio: 18245318218482.000000
+Tiempo de fin: 0.000006
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 15
+
+----------------------------------------
+
+Resultado 25:
+El numero 62 se encuentra en la posicion 67.
+Tamano del array: 2500
+Tiempo de inicio: 18245318220713.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 67
+
+----------------------------------------
+
+Resultado 26:
+El numero 13 se encuentra en la posicion 5.
+Tamano del array: 2600
+Tiempo de inicio: 18245318223104.000000
+Tiempo de fin: 0.000006
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 5
+
+----------------------------------------
+
+Resultado 27:
+El numero 72 se encuentra en la posicion 177.
+Tamano del array: 2700
+Tiempo de inicio: 18245318225368.000000
+Tiempo de fin: 0.000009
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 177
+
+----------------------------------------
+
+Resultado 28:
+El numero 63 se encuentra en la posicion 84.
+Tamano del array: 2800
+Tiempo de inicio: 18245318227834.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 84
+
+----------------------------------------
+
+Resultado 29:
+El numero 45 se encuentra en la posicion 375.
+Tamano del array: 2900
+Tiempo de inicio: 18245318230182.000000
+Tiempo de fin: 0.000012
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 375
+
+----------------------------------------
+
+Resultado 30:
+El numero 62 se encuentra en la posicion 14.
+Tamano del array: 3000
+Tiempo de inicio: 18245318232641.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 14
+
+----------------------------------------
+
+Resultado 31:
+El numero 42 se encuentra en la posicion 28.
+Tamano del array: 3100
+Tiempo de inicio: 18245318235032.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 28
+
+----------------------------------------
+
+Resultado 32:
+El numero 85 se encuentra en la posicion 173.
+Tamano del array: 3200
+Tiempo de inicio: 18245318237407.000000
+Tiempo de fin: 0.000009
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 173
+
+----------------------------------------
+
+Resultado 33:
+El numero 100 se encuentra en la posicion 80.
+Tamano del array: 3300
+Tiempo de inicio: 18245318239835.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 80
+
+----------------------------------------
+
+Resultado 34:
+El numero 7 se encuentra en la posicion 99.
+Tamano del array: 3400
+Tiempo de inicio: 18245318242371.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 99
+
+----------------------------------------
+
+Resultado 35:
+El numero 2 se encuentra en la posicion 145.
+Tamano del array: 3500
+Tiempo de inicio: 18245318244829.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 145
+
+----------------------------------------
+
+Resultado 36:
+El numero 82 se encuentra en la posicion 135.
+Tamano del array: 3600
+Tiempo de inicio: 18245318248055.000000
+Tiempo de fin: 0.000024
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 135
+
+----------------------------------------
+
+Resultado 37:
+El numero 42 se encuentra en la posicion 16.
+Tamano del array: 3700
+Tiempo de inicio: 18245318254152.000000
+Tiempo de fin: 0.000013
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 16
+
+----------------------------------------
+
+Resultado 38:
+El numero 89 se encuentra en la posicion 14.
+Tamano del array: 3800
+Tiempo de inicio: 18245318257348.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 14
+
+----------------------------------------
+
+Resultado 39:
+El numero 7 se encuentra en la posicion 40.
+Tamano del array: 3900
+Tiempo de inicio: 18245318260207.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 40
+
+----------------------------------------
+
+Resultado 40:
+El numero 50 se encuentra en la posicion 219.
+Tamano del array: 4000
+Tiempo de inicio: 18245318263065.000000
+Tiempo de fin: 0.000010
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 219
+
+----------------------------------------
+
+Resultado 41:
+El numero 22 se encuentra en la posicion 244.
+Tamano del array: 4100
+Tiempo de inicio: 18245318265667.000000
+Tiempo de fin: 0.000010
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 244
+
+----------------------------------------
+
+Resultado 42:
+El numero 51 se encuentra en la posicion 58.
+Tamano del array: 4200
+Tiempo de inicio: 18245318268301.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 58
+
+----------------------------------------
+
+Resultado 43:
+El numero 51 se encuentra en la posicion 11.
+Tamano del array: 4300
+Tiempo de inicio: 18245318270884.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 11
+
+----------------------------------------
+
+Resultado 44:
+El numero 27 se encuentra en la posicion 112.
+Tamano del array: 4400
+Tiempo de inicio: 18245318273646.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 112
+
+----------------------------------------
+
+Resultado 45:
+El numero 88 se encuentra en la posicion 46.
+Tamano del array: 4500
+Tiempo de inicio: 18245318276295.000000
+Tiempo de fin: 0.000007
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 46
+
+----------------------------------------
+
+Resultado 46:
+El numero 84 se encuentra en la posicion 6.
+Tamano del array: 4600
+Tiempo de inicio: 18245318278941.000000
+Tiempo de fin: 0.000006
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 6
+
+----------------------------------------
+
+Resultado 47:
+El numero 46 se encuentra en la posicion 573.
+Tamano del array: 4700
+Tiempo de inicio: 18245318281596.000000
+Tiempo de fin: 0.000024
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 573
+
+----------------------------------------
+
+Resultado 48:
+El numero 73 se encuentra en la posicion 101.
+Tamano del array: 4800
+Tiempo de inicio: 18245318284472.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 101
+
+----------------------------------------
+
+Resultado 49:
+El numero 66 se encuentra en la posicion 56.
+Tamano del array: 4900
+Tiempo de inicio: 18245318287246.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 56
+
+----------------------------------------
+
+Resultado 50:
+El numero 63 se encuentra en la posicion 118.
+Tamano del array: 5000
+Tiempo de inicio: 18245318290007.000000
+Tiempo de fin: 0.000008
+Tiempo total: 0.000000 segundos
+Numero de iteraciones: 118
+
+----------------------------------------
+
+
+ans = 
+
+    [1x186 char]
+    [1x190 char]
+    [1x186 char]
+    [1x186 char]
+    [1x189 char]
+    [1x187 char]
+    [1x188 char]
+    [1x187 char]
+    [1x188 char]
+    [1x187 char]
+    [1x190 char]
+    [1x189 char]
+    [1x189 char]
+    [1x191 char]
+    [1x189 char]
+    [1x187 char]
+    [1x189 char]
+    [1x189 char]
+    [1x189 char]
+    [1x191 char]
+    [1x191 char]
+    [1x191 char]
+    [1x189 char]
+    [1x189 char]
+    [1x189 char]
+    [1x187 char]
+    [1x191 char]
+    [1x189 char]
+    [1x191 char]
+    [1x189 char]
+    [1x189 char]
+    [1x191 char]
+    [1x190 char]
+    [1x188 char]
+    [1x190 char]
+    [1x191 char]
+    [1x189 char]
+    [1x189 char]
+    [1x188 char]
+    [1x191 char]
+    [1x191 char]
+    [1x189 char]
+    [1x189 char]
+    [1x191 char]
+    [1x189 char]
+    [1x187 char]
+    [1x191 char]
+    [1x191 char]
+    [1x189 char]
+    [1x191 char]
+
+>> 
